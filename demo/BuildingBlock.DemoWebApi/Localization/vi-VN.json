@@ -1,0 +1,11 @@
+﻿{
+  "Hello": "Xin chào",
+  "Hello_User": "Xin chào {0}",
+  "Shared": {
+    "Page": "Trang {0}",
+    "Header": {
+      "Title": "Tiêu đề",
+      "Subtitle": "Phụ đề"
+    }
+  }
+}

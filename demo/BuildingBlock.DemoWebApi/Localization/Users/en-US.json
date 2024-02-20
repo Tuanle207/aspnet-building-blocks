@@ -1,0 +1,7 @@
+{
+  "Hello": "Hello",
+  "Hello_User": "Hello ABC {0}",
+  "Shared": {
+    "Page": "Page {0}"
+  }
+}

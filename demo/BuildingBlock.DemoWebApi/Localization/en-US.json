@@ -1,0 +1,11 @@
+{
+  "Hello": "Hello",
+  "Hello_User": "Hello {0}",
+  "Shared": {
+    "Page": "Page {0}",
+    "Header": {
+      "Title": "Header Title",
+      "Subtitle": "Header Subtitle"
+    }
+  }
+}
